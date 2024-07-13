@@ -1,0 +1,107 @@
+G:\Backend Development\ChatApp\Backend\ChatApp\bin\Debug\net8.0\appsettings.Development.json
+G:\Backend Development\ChatApp\Backend\ChatApp\bin\Debug\net8.0\appsettings.json
+G:\Backend Development\ChatApp\Backend\ChatApp\bin\Debug\net8.0\ChatApp.exe
+G:\Backend Development\ChatApp\Backend\ChatApp\bin\Debug\net8.0\ChatApp.deps.json
+G:\Backend Development\ChatApp\Backend\ChatApp\bin\Debug\net8.0\ChatApp.runtimeconfig.json
+G:\Backend Development\ChatApp\Backend\ChatApp\bin\Debug\net8.0\ChatApp.dll
+G:\Backend Development\ChatApp\Backend\ChatApp\bin\Debug\net8.0\ChatApp.pdb
+G:\Backend Development\ChatApp\Backend\ChatApp\bin\Debug\net8.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+G:\Backend Development\ChatApp\Backend\ChatApp\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+G:\Backend Development\ChatApp\Backend\ChatApp\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+G:\Backend Development\ChatApp\Backend\ChatApp\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.dll
+G:\Backend Development\ChatApp\Backend\ChatApp\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+G:\Backend Development\ChatApp\Backend\ChatApp\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Common.dll
+G:\Backend Development\ChatApp\Backend\ChatApp\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+G:\Backend Development\ChatApp\Backend\ChatApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Backend Development\ChatApp\Backend\ChatApp\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+G:\Backend Development\ChatApp\Backend\ChatApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+G:\Backend Development\ChatApp\Backend\ChatApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Backend Development\ChatApp\Backend\ChatApp\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
+G:\Backend Development\ChatApp\Backend\ChatApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+G:\Backend Development\ChatApp\Backend\ChatApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Backend Development\ChatApp\Backend\ChatApp\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+G:\Backend Development\ChatApp\Backend\ChatApp\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+G:\Backend Development\ChatApp\Backend\ChatApp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+G:\Backend Development\ChatApp\Backend\ChatApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Backend Development\ChatApp\Backend\ChatApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Backend Development\ChatApp\Backend\ChatApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Backend Development\ChatApp\Backend\ChatApp\bin\Debug\net8.0\System.IO.Pipelines.dll
+G:\Backend Development\ChatApp\Backend\ChatApp\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+G:\Backend Development\ChatApp\Backend\ChatApp\bin\Debug\net8.0\System.Text.Json.dll
+G:\Backend Development\ChatApp\Backend\ChatApp\bin\Debug\net8.0\System.Threading.Channels.dll
+G:\Backend Development\ChatApp\Backend\ChatApp\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+G:\Backend Development\ChatApp\Backend\ChatApp\obj\Debug\net8.0\ChatApp.csproj.AssemblyReference.cache
+G:\Backend Development\ChatApp\Backend\ChatApp\obj\Debug\net8.0\ChatApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Backend Development\ChatApp\Backend\ChatApp\obj\Debug\net8.0\ChatApp.AssemblyInfoInputs.cache
+G:\Backend Development\ChatApp\Backend\ChatApp\obj\Debug\net8.0\ChatApp.AssemblyInfo.cs
+G:\Backend Development\ChatApp\Backend\ChatApp\obj\Debug\net8.0\ChatApp.csproj.CoreCompileInputs.cache
+G:\Backend Development\ChatApp\Backend\ChatApp\obj\Debug\net8.0\ChatApp.MvcApplicationPartsAssemblyInfo.cs
+G:\Backend Development\ChatApp\Backend\ChatApp\obj\Debug\net8.0\ChatApp.MvcApplicationPartsAssemblyInfo.cache
+G:\Backend Development\ChatApp\Backend\ChatApp\obj\Debug\net8.0\ChatApp.sourcelink.json
+G:\Backend Development\ChatApp\Backend\ChatApp\obj\Debug\net8.0\staticwebassets.build.json
+G:\Backend Development\ChatApp\Backend\ChatApp\obj\Debug\net8.0\staticwebassets.development.json
+G:\Backend Development\ChatApp\Backend\ChatApp\obj\Debug\net8.0\staticwebassets\msbuild.ChatApp.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Backend Development\ChatApp\Backend\ChatApp\obj\Debug\net8.0\staticwebassets\msbuild.build.ChatApp.props
+G:\Backend Development\ChatApp\Backend\ChatApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ChatApp.props
+G:\Backend Development\ChatApp\Backend\ChatApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ChatApp.props
+G:\Backend Development\ChatApp\Backend\ChatApp\obj\Debug\net8.0\staticwebassets.pack.json
+G:\Backend Development\ChatApp\Backend\ChatApp\obj\Debug\net8.0\scopedcss\bundle\ChatApp.styles.css
+G:\Backend Development\ChatApp\Backend\ChatApp\obj\Debug\net8.0\ChatApp.csproj.CopyComplete
+G:\Backend Development\ChatApp\Backend\ChatApp\obj\Debug\net8.0\ChatApp.dll
+G:\Backend Development\ChatApp\Backend\ChatApp\obj\Debug\net8.0\refint\ChatApp.dll
+G:\Backend Development\ChatApp\Backend\ChatApp\obj\Debug\net8.0\ChatApp.pdb
+G:\Backend Development\ChatApp\Backend\ChatApp\obj\Debug\net8.0\ChatApp.genruntimeconfig.cache
+G:\Backend Development\ChatApp\Backend\ChatApp\obj\Debug\net8.0\ref\ChatApp.dll
+E:\myChatBack\Backend\ChatApp\bin\Debug\net8.0\appsettings.Development.json
+E:\myChatBack\Backend\ChatApp\bin\Debug\net8.0\appsettings.json
+E:\myChatBack\Backend\ChatApp\bin\Debug\net8.0\ChatApp.exe
+E:\myChatBack\Backend\ChatApp\bin\Debug\net8.0\ChatApp.deps.json
+E:\myChatBack\Backend\ChatApp\bin\Debug\net8.0\ChatApp.runtimeconfig.json
+E:\myChatBack\Backend\ChatApp\bin\Debug\net8.0\ChatApp.dll
+E:\myChatBack\Backend\ChatApp\bin\Debug\net8.0\ChatApp.pdb
+E:\myChatBack\Backend\ChatApp\bin\Debug\net8.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\myChatBack\Backend\ChatApp\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+E:\myChatBack\Backend\ChatApp\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\myChatBack\Backend\ChatApp\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.dll
+E:\myChatBack\Backend\ChatApp\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+E:\myChatBack\Backend\ChatApp\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Common.dll
+E:\myChatBack\Backend\ChatApp\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\myChatBack\Backend\ChatApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\myChatBack\Backend\ChatApp\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+E:\myChatBack\Backend\ChatApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\myChatBack\Backend\ChatApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\myChatBack\Backend\ChatApp\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
+E:\myChatBack\Backend\ChatApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\myChatBack\Backend\ChatApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\myChatBack\Backend\ChatApp\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\myChatBack\Backend\ChatApp\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\myChatBack\Backend\ChatApp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\myChatBack\Backend\ChatApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\myChatBack\Backend\ChatApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\myChatBack\Backend\ChatApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\myChatBack\Backend\ChatApp\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\myChatBack\Backend\ChatApp\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\myChatBack\Backend\ChatApp\bin\Debug\net8.0\System.Text.Json.dll
+E:\myChatBack\Backend\ChatApp\bin\Debug\net8.0\System.Threading.Channels.dll
+E:\myChatBack\Backend\ChatApp\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\myChatBack\Backend\ChatApp\obj\Debug\net8.0\ChatApp.csproj.AssemblyReference.cache
+E:\myChatBack\Backend\ChatApp\obj\Debug\net8.0\ChatApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\myChatBack\Backend\ChatApp\obj\Debug\net8.0\ChatApp.AssemblyInfoInputs.cache
+E:\myChatBack\Backend\ChatApp\obj\Debug\net8.0\ChatApp.AssemblyInfo.cs
+E:\myChatBack\Backend\ChatApp\obj\Debug\net8.0\ChatApp.csproj.CoreCompileInputs.cache
+E:\myChatBack\Backend\ChatApp\obj\Debug\net8.0\ChatApp.MvcApplicationPartsAssemblyInfo.cs
+E:\myChatBack\Backend\ChatApp\obj\Debug\net8.0\ChatApp.MvcApplicationPartsAssemblyInfo.cache
+E:\myChatBack\Backend\ChatApp\obj\Debug\net8.0\staticwebassets.build.json
+E:\myChatBack\Backend\ChatApp\obj\Debug\net8.0\staticwebassets.development.json
+E:\myChatBack\Backend\ChatApp\obj\Debug\net8.0\staticwebassets\msbuild.ChatApp.Microsoft.AspNetCore.StaticWebAssets.props
+E:\myChatBack\Backend\ChatApp\obj\Debug\net8.0\staticwebassets\msbuild.build.ChatApp.props
+E:\myChatBack\Backend\ChatApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ChatApp.props
+E:\myChatBack\Backend\ChatApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ChatApp.props
+E:\myChatBack\Backend\ChatApp\obj\Debug\net8.0\staticwebassets.pack.json
+E:\myChatBack\Backend\ChatApp\obj\Debug\net8.0\scopedcss\bundle\ChatApp.styles.css
+E:\myChatBack\Backend\ChatApp\obj\Debug\net8.0\ChatApp.csproj.CopyComplete
+E:\myChatBack\Backend\ChatApp\obj\Debug\net8.0\ChatApp.dll
+E:\myChatBack\Backend\ChatApp\obj\Debug\net8.0\refint\ChatApp.dll
+E:\myChatBack\Backend\ChatApp\obj\Debug\net8.0\ChatApp.pdb
+E:\myChatBack\Backend\ChatApp\obj\Debug\net8.0\ChatApp.genruntimeconfig.cache
+E:\myChatBack\Backend\ChatApp\obj\Debug\net8.0\ref\ChatApp.dll
