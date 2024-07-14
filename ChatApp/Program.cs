@@ -14,9 +14,9 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddCors(options => {
-    options.AddPolicy("AllowSpecificOrigins",
+    options.AddPolicy("ReactJSDomain",
         policy => policy
-       .WithOrigins("http://localhost:3000")
+       .WithOrigins("https://mychat-seven-sandy.vercel.app")
                     .AllowAnyHeader()
                     .AllowAnyMethod()
                     .AllowCredentials());
@@ -36,7 +36,8 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 
-app.UseCors("AllowSpecificOrigins");
+app.UseCors("ReactJSDomain");
+
 
 app.UseAuthorization();
 

@@ -105,3 +105,4 @@ E:\myChatBack\Backend\ChatApp\obj\Debug\net8.0\refint\ChatApp.dll
 E:\myChatBack\Backend\ChatApp\obj\Debug\net8.0\ChatApp.pdb
 E:\myChatBack\Backend\ChatApp\obj\Debug\net8.0\ChatApp.genruntimeconfig.cache
 E:\myChatBack\Backend\ChatApp\obj\Debug\net8.0\ref\ChatApp.dll
+E:\myChatBack\Backend\ChatApp\obj\Debug\net8.0\ChatApp.sourcelink.json
