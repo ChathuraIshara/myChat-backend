@@ -33,7 +33,7 @@ namespace ChatApp.Hubs
         {
             if(_sharedDb.connections.TryGetValue(Context.ConnectionId, out UserConnection conn)) {
                 await Clients.Group(conn.chatRoom).SendAsync("ReceiveSpecificMessage",conn.userName,msg);
-                    }
+             }
         }
 
 

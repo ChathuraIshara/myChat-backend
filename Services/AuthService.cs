@@ -59,7 +59,9 @@ namespace Services
         {
             List<Claim> claims = new List<Claim> {
                 new Claim("Id",user.id.ToString()),
-                new Claim("Name", user.name !)
+                new Claim("Name", user.name !),
+                new Claim("Email",user.email !),
+                new Claim("imgurl",user.userImgUrl !),
             };
 
             var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(
