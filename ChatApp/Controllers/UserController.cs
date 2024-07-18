@@ -22,10 +22,10 @@ namespace ChatApp.Controllers
             return Ok(users);
         }
         [HttpPut("user/{id}")]
-        public async Task<ActionResult<ICollection<User>>> updateUserDetails(int id,User newUser)
+        public async Task<ActionResult> updateUserDetails(int id,User newUser)
         {
-            var updatedUser = await _userService.updateUser(id,newUser);
-            return Ok(updatedUser);
+            var updatedToken =  _userService.updateUser(id,newUser);
+            return Ok(updatedToken);
         }
 
     }

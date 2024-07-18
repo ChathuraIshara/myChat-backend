@@ -13,9 +13,12 @@ namespace Services
     public class UserService
     {
         private readonly ApplicationDbContext _dbcontext;
-        public UserService(ApplicationDbContext dbcontext)
+        private readonly AuthService _auth;
+        public UserService(ApplicationDbContext dbcontext,AuthService auth)
         {
             _dbcontext = dbcontext;
+            _auth = auth;
+
         }
 
         public async Task <List<User>> GetUsers()
@@ -23,14 +26,15 @@ namespace Services
             var users = await _dbcontext.users.ToListAsync();
             return users;
         }
-        public async Task<User> updateUser(int id,User user)
+        public  string updateUser(int id,User user)
         {
             var target=_dbcontext.users.FirstOrDefault(x => x.id == id);
             target.name=user.name;
             target.email = user.email;
             target.userImgUrl = user.userImgUrl;
             _dbcontext.SaveChanges();
-            return target;
+            string token = _auth.createToken(target);
+            return token;
         }
     }
 }
