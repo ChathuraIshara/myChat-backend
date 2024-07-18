@@ -3,7 +3,7 @@
     public class UserConnection
     {
 
-        public String userName { get; set; }
+        public String userId { get; set; }
         public String chatRoom { get; set; }
 
 
