@@ -21,7 +21,7 @@ namespace ChatApp.Controllers
             var users=await _userService.GetUsers();
             return Ok(users);
         }
-        [HttpPut]
+        [HttpPut("user/{id}")]
         public async Task<ActionResult<ICollection<User>>> updateUserDetails(int id,User newUser)
         {
             var updatedUser = await _userService.updateUser(id,newUser);
