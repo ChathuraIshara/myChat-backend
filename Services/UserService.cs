@@ -28,6 +28,7 @@ namespace Services
             var target=_dbcontext.users.FirstOrDefault(x => x.id == id);
             target.name=user.name;
             target.email = user.email;
+            target.userImgUrl = user.userImgUrl;
             _dbcontext.SaveChanges();
             return target;
         }
