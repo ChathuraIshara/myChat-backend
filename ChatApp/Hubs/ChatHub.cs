@@ -2,18 +2,19 @@
 using ChatApp.Models;
 using DataAccessLayer;
 using Microsoft.AspNetCore.SignalR;
+using Models;
 
 namespace ChatApp.Hubs
 {
     public class ChatHub:Hub
     {
         private readonly SharedDb _sharedDb;
-        private readonly ApplicationDbContext _context;
+        private readonly ApplicationDbContext _dbcontext;
 
         public ChatHub(SharedDb sharedDb,ApplicationDbContext dbcontext)
         {
             _sharedDb = sharedDb;
-            _context = dbcontext;
+            _dbcontext = dbcontext;
             
         }
 
@@ -29,13 +30,26 @@ namespace ChatApp.Hubs
 
 
             await Groups.AddToGroupAsync(Context.ConnectionId, conn.chatRoom);
-            await Clients.Group(conn.chatRoom).SendAsync("ListenRoomJoining", "admin",$"{conn.userId} has joined {conn.chatRoom}");
+            User targetUser = null;
+
+            if (conn != null)
+            {
+                targetUser = _dbcontext.users.FirstOrDefault(x => x.id.ToString() == conn.userId);
+            }
+            await Clients.Group(conn.chatRoom).SendAsync("ListenRoomJoining", "admin",$"{targetUser.name} has joined {conn.chatRoom}");
         }
 
         public async Task sendMessage(String msg)
         {
             if(_sharedDb.connections.TryGetValue(Context.ConnectionId, out UserConnection conn)) {
-                await Clients.Group(conn.chatRoom).SendAsync("ReceiveSpecificMessage",conn.userId,msg);
+
+                User targetUser = null;
+               
+                if (conn!=null)
+                {
+                   targetUser = _dbcontext.users.FirstOrDefault(x => x.id.ToString() == conn.userId);
+                }
+                await Clients.Group(conn.chatRoom).SendAsync("ReceiveSpecificMessage",targetUser,msg);
              }
         }
 
